@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES cripto Explorer", "AES cripto Explorer\AES cripto Explorer.csproj", "{7A5641A5-1A74-4DCE-80B7-612410BEBCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES проба", "..\AES проба\AES проба\AES проба.csproj", "{F8764EC1-4C7D-43AD-9EF9-9AA952908E37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5641A5-1A74-4DCE-80B7-612410BEBCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5641A5-1A74-4DCE-80B7-612410BEBCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5641A5-1A74-4DCE-80B7-612410BEBCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5641A5-1A74-4DCE-80B7-612410BEBCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8764EC1-4C7D-43AD-9EF9-9AA952908E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8764EC1-4C7D-43AD-9EF9-9AA952908E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8764EC1-4C7D-43AD-9EF9-9AA952908E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8764EC1-4C7D-43AD-9EF9-9AA952908E37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

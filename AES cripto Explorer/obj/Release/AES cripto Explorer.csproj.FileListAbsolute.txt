@@ -1,0 +1,9 @@
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Release\AES_cripto_Explorer.Form1.resources
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Release\AES cripto Explorer.csproj.GenerateResource.Cache
+C:\Users\Igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\bin\Release\AES crypto Explorer.exe.config
+C:\Users\Igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\bin\Release\AES crypto Explorer.exe
+C:\Users\Igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\bin\Release\AES crypto Explorer.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Release\AES_crypto_Explorer.Properties.Resources.resources
+C:\Users\Igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Release\AES crypto Explorer.exe
+C:\Users\Igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Release\AES crypto Explorer.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Release\AES cripto Explorer.csprojResolveAssemblyReference.cache

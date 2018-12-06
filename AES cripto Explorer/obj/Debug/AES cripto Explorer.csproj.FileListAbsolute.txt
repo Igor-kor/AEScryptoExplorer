@@ -1,0 +1,9 @@
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\bin\Debug\AES cripto Explorer.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\bin\Debug\AES cripto Explorer.exe
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\bin\Debug\AES cripto Explorer.pdb
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Debug\AES cripto Explorer.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Debug\AES_cripto_Explorer.Form1.resources
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Debug\AES_cripto_Explorer.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Debug\AES cripto Explorer.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Debug\AES cripto Explorer.exe
+c:\users\igor\documents\visual studio 2015\Projects\AES cripto Explorer\AES cripto Explorer\obj\Debug\AES cripto Explorer.pdb
